@@ -14,8 +14,6 @@ Instructor: <strong>Asif Ahmed Neloy</strong> (email: asif.neloy@northsouth.edu)
 * Thursday: 7.00 pm to 8.00 pm.
 * Link: https://meet.google.com/pnd-gfcz-ssg
 * **P.S. Make Sure you have studied the class lecture and slides, and the questions are well prepared before joining.**
-
-</br>
 </p>
 
 ## _Course Description:_ (Outline - <a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/blob/master/Materials/CSE331L_Course_Outline_Summer_2020_Section_7.pdf">Here</a>)
@@ -23,6 +21,9 @@ Instructor: <strong>Asif Ahmed Neloy</strong> (email: asif.neloy@northsouth.edu)
 This course provides an introduction to the fundamental concept of microprocessor architecture and microprocessor based embedded systems. A basic idea of the internal and external architecture of the microprocessor 8086 will be provided followed by the physical pin diagram of microprocessor 8086. The course will also cover the other peripheral devices of a microprocessor based system i.e. RAM 6116, PIO 8255 Controller and 7-Segment Display. The course will then cover the programming languages for interfacing: Assembly language followed by Interrupt and data conversion algorithm. A brief introduction to the Microcontroller 8051 will also be provided. Simulation software tool: emulator 8086 will be introduced in the laboratory classes for doing simulation-based project works. This course has separate mandatory laboratory session every week as CSE 331L.
 </p>
 
+## _Lab Hours:_
+* Tuesday: 8.00 am to 11.10 pm.
+* **Lab will start from 8.10 am and attendance will be taken on 8.20 am**
 
 ## _Mark Distribution:_
 <p align="central">
@@ -51,9 +52,6 @@ This course provides an introduction to the fundamental concept of microprocesso
 </p>
 
 > The marks distribution may change according to the discretion of the instructor.
-
-
-</br>
 
 ## _Tentative Class Schedule:_
 <p align="central">
@@ -91,7 +89,6 @@ This course provides an introduction to the fundamental concept of microprocesso
 
 </table>
 </p>
-</br>
 
 ## _Required Software:_
 
@@ -101,7 +98,6 @@ This course provides an introduction to the fundamental concept of microprocesso
 4. **Git SCM** - https://git-scm.com/downloads
 5. **Github Desktop** - https://desktop.github.com/
 
-</br>
 
 ## _Submission Guideline_:
 <p align="central">
@@ -118,14 +114,12 @@ This course provides an introduction to the fundamental concept of microprocesso
 10. Check your file is submitted or not.
 
 </p>
-</br>
 
 ## _Submission Links_:
 
 * _Homework:_ (Submission <a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/tree/master/Homework%20Submission/Homework%201">Link</a>)
 
 * _Lab Assessment:_ (Submission <a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/tree/master/Lab%20Asssessment%20Submission/Lab%20Assessment%201">Link</a>)
-</br>
 
 ## _Lab Resource_:
 
@@ -133,13 +127,10 @@ This course provides an introduction to the fundamental concept of microprocesso
 * _Class Lecture_: https://github.com/aaneloy/CSE331L_Section_7_Summer_2020_NSU/tree/master/Slides
 * _Lab Code_: https://github.com/aaneloy/CSE331L_Section_7_Summer_2020_NSU/tree/master/Codes
 
-</br>
-
 ## _Project_ 
 <p align="justify">
 Will Update Later
 </p>
-</br>
 
 ## _Github Instructions:_
 <p align="justify">
@@ -155,7 +146,6 @@ Will Update Later
 
 
 </html>
-</br>
 
 ## License 📄
 This work is dual-licensed under MIT and CC BY-NC-SA 4.0. You can choose between one of them if you use this work.
