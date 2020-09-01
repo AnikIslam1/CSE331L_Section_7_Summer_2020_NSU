@@ -86,7 +86,36 @@ This course provides an introduction to the fundamental concept of microprocesso
     <th>Mid-Term</th>
     <th>18.08.2020</th>
   </tr>
-
+  <tr>
+    <th>Week 5</th>
+    <th><a href="https://github.com/aaneloy/CSE331L_Section_7_Summer_2020_NSU/blob/master/Slides/Lab_5/CSE331L_5.pdf">Lab 5</a></th> 
+    <th>Control Flow Instruction 1</th>
+    <th>25.08.2020</th>
+  </tr>
+  <tr>
+    <th>Week 6</th>
+    <th><a href="">Lab 6</a></th> 
+    <th>Project Day-1</th>
+    <th>1.09.2020</th>
+  </tr>
+  <tr>
+    <th>Week 7</th>
+    <th><a href="">Lab 7</a></th> 
+    <th>Project Day-2</th>
+    <th>08.09.2020</th>
+  </tr>
+  <tr>
+    <th>Week 8</th>
+    <th><a href="">Lab 8</a></th> 
+    <th>Control Flow Instruction 2</th>
+    <th>15.09.2020</th>
+  </tr>
+  <tr>
+    <th>Week 9</th>
+    <th><a href="">Lab 9</a></th> 
+    <th>Final</th>
+    <th>22.09.2020</th>
+  </tr>
 </table>
 </p>
 
